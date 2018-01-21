@@ -1,0 +1,7 @@
+#Fri Jan 19 18:11:37 EET 2018
+base.0=/home/vitaly/Downloads/gate_client/app/build/intermediates/transforms/dexMerger/debug/18
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/vitaly/Downloads/gate_client/app/build/intermediates/transforms/dexMerger/debug/10
