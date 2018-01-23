@@ -1,0 +1,4 @@
+#Mon Jan 22 16:01:11 EET 2018
+base.0=/home/vitaly/Downloads/android_final/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,76 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/6079e15f7c037f3a80a6a2366f4c9596/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/76676bbabbe6f1dc6b394b887aa97d12/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f5fa302007a30e26e39777dcdb5ff22/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:5:5-17:19
+MERGED from [com.android.support:design:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/6079e15f7c037f3a80a6a2366f4c9596/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/6079e15f7c037f3a80a6a2366f4c9596/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/76676bbabbe6f1dc6b394b887aa97d12/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/76676bbabbe6f1dc6b394b887aa97d12/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f5fa302007a30e26e39777dcdb5ff22/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f5fa302007a30e26e39777dcdb5ff22/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:6:9-35
+activity#mooc.vandy.java4android.calculator.ui.MainActivity
+ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:11:9-16:20
+	android:name
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:11:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/6079e15f7c037f3a80a6a2366f4c9596/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/design-22.2.1.aar/6079e15f7c037f3a80a6a2366f4c9596/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/76676bbabbe6f1dc6b394b887aa97d12/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/76676bbabbe6f1dc6b394b887aa97d12/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f5fa302007a30e26e39777dcdb5ff22/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/vitaly/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4f5fa302007a30e26e39777dcdb5ff22/AndroidManifest.xml:20:5-43
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+		ADDED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vitaly/Downloads/android_final/app/src/main/AndroidManifest.xml
