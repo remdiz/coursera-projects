@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+.list-group {
+    width: 30%;
+}
+
+.list-group-item {
+    text-align: center;
+}
+
+.badge {
+    padding: 3px;
+}
