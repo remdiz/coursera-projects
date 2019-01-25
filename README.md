@@ -1,2 +1,2 @@
 # studying
-My projects created while studying some online cources
+My projects created while studying some online courses
