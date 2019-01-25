@@ -1,2 +1,2 @@
-# coursera-projects
-My projects created while studying some coursera specializations
+# studying
+My projects created while studying some online cources
